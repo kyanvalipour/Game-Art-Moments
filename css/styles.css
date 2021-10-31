@@ -1,0 +1,13 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2 {
+    font-family: "Lobster", cursive;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-color: #9aa9fd;
+}
