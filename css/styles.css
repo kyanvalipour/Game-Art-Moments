@@ -2,6 +2,8 @@ body {
     font-family: "Open Sans", sans-serif;
     background: black;
     color: white;
+    background-color: transparent;
+    background-image: url("../img/wallhaven-z8qdlg.jpg");
 }
 
 h1, h2 {
@@ -17,7 +19,7 @@ h1, h2 {
     margin: 0;
     padding: 30px;
     color: white;
-    background-image: url("img/pexels-daniel-absi-952670.jpg");
+    background: rgb(46, 3, 46);
 }
 
 #carouselExampleControls {
