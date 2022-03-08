@@ -1,9 +1,10 @@
 body {
     font-family: "Open Sans", sans-serif;
     background: black;
-    color: white;
+    color: rgb(255, 255, 255);
     background-color: transparent;
     background-image: url("../img/wallhaven-z8qdlg.jpg");
+    background-size: auto;
 }
 
 h1, h2 {
@@ -12,17 +13,17 @@ h1, h2 {
 
 #uppercased {
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 .jumbotron {
-    margin: 0;
-    padding: 30px;
-    color: white;
-    background: rgb(46, 3, 46);
+    margin: 0px;
+    padding-bottom: 5px;
+    color: rgb(255, 255, 255);
+    background: rgba(112, 15, 107, 0.959);
 }
 
 #carouselExampleControls {
-    top: 40px;
+    top: 30px;
     box-shadow: 5px 5px rgb(255, 255, 255, .85);
 }
