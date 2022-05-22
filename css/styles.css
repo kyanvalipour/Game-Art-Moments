@@ -44,16 +44,6 @@ body {
     font-size: 40px;
 }
 
-#carousel-container {
-    background-color: limegreen;
-    border: 1px solid limegreen;
-    border-radius: 3px;
-}
-
-.container-carousel {
-    margin: 30px 30px;
-}
-
 .carousel-control-next {
     background-color: transparent;
     border: none;
